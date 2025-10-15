@@ -20,8 +20,8 @@ main:
   - title: "Code & Data"
     url: /code_data/
 
-  - title: "Talks"
-    url: /talks/  
+  #- title: "Talks"
+  #  url: /talks/  x
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
