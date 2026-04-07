@@ -14,7 +14,7 @@ name                     : &name "Jacobo Ferrer"
 description              : &description "I am an economics Ph.D and researcher focusing on distributional and environmental input-output models"
 url                      : https://jacobo-ferrer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jacobo-ferrer.github.io"
+repository               : "https://github.com/jacobo-ferrer"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Economist researching climate change, Universidad Politécnica de Madrid. Economics PhD, The New School for Social Research. Focused on integrating input-output data and household surveys to study living standards and distributional carbon gaps."
   location         : "Madrid, Spain"
-  employer         : "Technical U. of Madrid"
+  employer         : "Politécnica de Madrid"
   uri              : # URL
   email            : "jferrherz@gmail.com" 
 
